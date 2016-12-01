@@ -21,8 +21,7 @@
 /* #Base 960 Grid
 ================================================== */
 
-
-    .container                                  { position: relative; width: 960px; margin: 0 auto; padding: 0; }
+    .container                                  { position: relative; width: 1000px; margin: 0 auto; padding: 0; }
     .container .column,
     .container .columns                         { float: left; display: inline; margin-left: 10px; margin-right: 10px; }
     .row                                        { margin-bottom: 20px; }
@@ -52,7 +51,7 @@
 
     .container .one-third.column                { width: 300px; }
     .container .two-thirds.column               { width: 620px; }
-
+    .item-column                                { float: left; display: inline;width: 25%; }
     /* Offsets */
     .container .offset-by-one                   { padding-left: 60px;  }
     .container .offset-by-two                   { padding-left: 120px; }
@@ -78,8 +77,8 @@
     /* Note: Design for a width of 768px */
 
     @media only screen and (min-width: 768px) and (max-width: 959px) {
-	.wrap { max-width:828px;  }
-        .container                                  { width: 768px; }
+	.wrapper { max-width:100%;  }
+        .container                                  { width: 700px; }
         .container .column,
         .container .columns                         { margin-left: 10px; margin-right: 10px;  }
         .column.alpha, .columns.alpha               { margin-left: 0; margin-right: 10px; }
@@ -105,8 +104,8 @@
         .container .sixteen.columns                 { width: 748px; }
 
         .container .one-third.column                { width: 236px; }
-        .container .two-thirds.column               { width: 492px; } 
-
+        .container .two-thirds.column               { width: 492px; }
+        .item-column                                { float: left; display: inline;width: 25%; }
         /* Offsets */
         .container .offset-by-one                   { padding-left: 48px; }
         .container .offset-by-two                   { padding-left: 96px; }
@@ -155,8 +154,8 @@
         .container .fifteen.columns,
         .container .sixteen.columns,
         .container .one-third.column,
-        .container .two-thirds.column  { width: 300px; } 
-
+        .container .two-thirds.column  { width: 300px; }
+        .item-column                   { float: left; display: inline;width: 100%; }
         /* Offsets */
         .container .offset-by-one,
         .container .offset-by-two,
@@ -206,7 +205,8 @@
         .container .fifteen.columns,
         .container .sixteen.columns,
         .container .one-third.column,
-        .container .two-thirds.column { width: 420px; } 
+        .container .two-thirds.column { width: 420px; }
+        .item-column                  { float: left; display: inline;width: 50%; }
     }
 
 
