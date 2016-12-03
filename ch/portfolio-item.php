@@ -1,4 +1,3 @@
-
 <?php include('header.html'); ?>
 <section id="full-width">
 <img src="../images/hero-pages2.jpg" class="full-width" />
