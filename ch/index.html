@@ -43,9 +43,9 @@
 		<div class="four columns"><a href="#"><img src="../images/logo.png" /></a></div>
 		<nav id="nav-wrap" class="twelve columns">
 					<ul id="nav">
-						<li><a href="#">技术</a>
+						<li><a href="technology.php">技术</a>
 							<ul>
-								<li><a href="services.html">红外热成像无损检测技术</a></li>
+								<li><a href="technology.php">红外热成像无损检测技术</a></li>
 								<li><a href="pricing.html">热波成像无损检测技术</a></li>
 								<li><a href="blog-single.html">红外热像仪技术</a></li>
 							</ul>
@@ -78,8 +78,8 @@
 						<li><a href="#">关于
 							</a>
 							<ul>
-								<li><a href="about.html">关于我们</a></li>
-								<li><a href="pricing.html">联系我们</a></li>
+								<li><a href="about.php">关于我们</a></li>
+								<li><a href="contact.php">联系我们</a></li>
 							</ul>
 						</li>
 						<li><a href="../en/index.html">中文/EN</a></li>
@@ -115,7 +115,7 @@
 	<!-- <h1> 我们的服务 </h1> -->
 	<div class="clear"></div>
 		<div class="item-column">
-		<a class="portfolio-item" href="#">
+		<a class="portfolio-item" href="technology.php">
 		<img src="../images/portfo/port1-big.jpg" />
 			<h5> 技术</h5>
 			<!-- <em>desgn, illustration</em> -->
@@ -290,7 +290,41 @@
 </div><!-- end-wrap -->
 <!-- End Document
 ================================================== -->
-
+<script type="text/javascript" src="../js/slide1.min.jquery.js"></script>
+<script type="text/javascript">
+	$(function(){
+		$('#slides').slides({
+			preload: true,
+			preloadImage: '../images/slide1/loading.gif',
+			play: 5000,
+			pause: 2500,
+			hoverPause: true,
+			animationStart: function(current){
+				$('.caption').animate({
+					top:0
+				},100);
+				if (window.console && console.log) {
+					// example return of current slide number
+					console.log('animationStart on slide: ', current);
+				};
+			},
+			animationComplete: function(current){
+				$('.caption').animate({
+					top:0
+				},200);
+				if (window.console && console.log) {
+					// example return of current slide number
+					console.log('animationComplete on slide: ', current);
+				};
+			},
+			slidesLoaded: function() {
+				$('.caption').animate({
+					top:0
+				},200);
+			}
+		});
+	});
+</script>
    <script type="text/javascript" src="../js/jquery.nivo.slider.pack.js"></script>
     <script type="text/javascript">
     $(window).load(function() {

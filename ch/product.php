@@ -13,9 +13,9 @@
 		<nav class="primary clearfix">
 
 				<ul>
-				    <li>Categories:</li>
-					<li><a href="#" class="selected" data-filter="*">All</a></li>
-					<li><a class="" href="#" data-filter=".web">Web Design</a></li>
+				    <li>产品分类:</li>
+					<li><a href="#" class="selected" data-filter="*">全部</a></li>
+					<li><a class="" href="#" data-filter=".thermalwave-NDT">热波无损检测设备</a></li>
 					<li><a class="" href="#" data-filter=".logg">Logo</a></li>
 					<li><a class="" href="#" data-filter=".video">Video</a></li>
 					<li><a class="" href="#" data-filter=".print">Print </a></li>
@@ -25,12 +25,12 @@
 <hr />
 
 <div class="portfolio">
-<div class="portfolio-item five columns entry video -item">
-<a id="Single-Item" href="../images/portfolio-img/portfoliopic01-big.jpg">
-<img src="../images/portfolio-img/portfoliopic01.jpg" border="0" /><span class="prt-img-hov-bg"></span></a>
-<a href="portfolio-item.html">
-<h5> Nam dui </h5>
-<em>desgn, auctor</em>
+<div class="portfolio-item five columns entry thermalwave-NDT -item">
+<a id="Single-Item" href="product-single.php">
+<img src="../images/products/lascan1.png" border="0" /><span class="prt-img-hov-bg"></span></a>
+<a href="product-single.php">
+<h5> LaScan-C200 </h5>
+<em>激光扫描激励</em>
 </a></div>
 <!-- end-portfolio-item-->
 
@@ -110,8 +110,6 @@
 
 <!-- <div class="prev-page"><a href="#">Previous</a></div>
 <div class="next-page"><a href="#">Next</a></div> -->
-
-<div class="white-space"></div>
 
 </section><!-- container -->
 <?php include('footer.html'); ?>
