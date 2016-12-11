@@ -273,11 +273,11 @@ a.readmore:active, .next-page a:active, .prev-page a:active { background-color:#
 .listbox1 ul, .listbox1 ul li { margin:0; padding:0; list-style:none; }
 .listbox1 ul { margin-bottom:10px; }
 .listbox1 ul li { border-bottom:1px dotted #e8edee;  }
-.listbox1 ul li a { text-decoration:none; color:#95a3a6; background:#fff; display:block; padding:7px 0; }
+.listbox1 ul li a { text-decoration:none;  color:#95a3a6; background:#fff; display:block; padding:7px 0; }
 .listbox1 ul li a:hover { background-color:#fdfdfd; color:#5d6f74; }
 .listbox1 ul li span { float:right; font-size:10px; }
 #sidebar .listbox1 { max-width:260px; }
-#sidebar .listbox1 ul li a { background:url(../images/rowp7.png) no-repeat left center; padding-left:12px; }
+#sidebar .listbox1 ul li a {  color:#95a3a6; background:url(../images/rowp7.png) no-repeat left center; padding-left:12px; }
 #sidebar  .listbox1 ul li a:hover { background-color:#fdfdfd; color:#5d6f74; }
 
 a.show-all { width: 86px; height: 20px; background:#efefef; padding:0; margin: 7px; line-height:19px; text-align:center; color:#666;  font-size:12px; float: left; border: 1px solid #f0f0f0; border-bottom:2px solid #dddada; text-decoration:none; border-radius:2px; }

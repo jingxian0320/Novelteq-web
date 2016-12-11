@@ -11,81 +11,16 @@
 
 <section class="container page-content">
 	<section id="sidebar">
-		<h4 class="subtitle">产品列表</h4>
+		<h4 class="subtitle">激光扫描激励</h4>
 		<div class="listbox1">
-		<strong>
 		<ul>
-		<li><a href="technology.php" style="color:#91bad4">热激励方式 </a></li>
-		<ul style="margin-left:14px">
-			<li>
-					<a href="technology/infrared/active/active.html">激光扫描热激励</a>
-			</li>
-			<ul style="margin-left:28px">
-					<li>
-							<a href="technology/infrared/active/pulse.html">LaScan S240</a>
-					</li>
-					<li>
-							<a href="technology/infrared/active/lock-in.html">LaScan T200</a>
-					</li>
-					<li>
-							<a href="technology/infrared/active/lock-in.html">LaScan C200</a>
-					</li>
-			</ul>
-			<li>
-					<a href="technology/infrared/passive.html">闪光灯热激励</a>
-			</li>
-			<li>
-					<a href="technology/infrared/passive.html">红外灯热激励</a>
-			</li>
-			<li>
-					<a href="technology/infrared/passive.html">热风激励</a>
-			</li>
-			<li>
-					<a href="technology/infrared/passive.html">涡流热激励</a>
-			</li>
-			<li>
-					<a href="technology/infrared/passive.html">超声激励</a>
-			</li>
+			<li><a href="products/thermalwave-NDT/lascan/lascan-S300.html">LaScan-S300</a></li>
+
+			<li><a href="products/thermalwave-NDT/lascan/lascan-T200.html">LaScan-T200</a></li>
+
+			<li><a href="products/thermalwave-NDT/lascan/lascan-C200.html">LaScan-C200</a></li>
 		</ul>
-		<li><a href="technology/thermalwave/thermalwave-NDT-tech.html" style="color:#91bad4">系统结构形式</a></li>
-		<ul style="margin-left:14px">
-			<li>
-							<a href="technology/thermalwave/laser.html">便携</a>
-				</li>
-				<li>
-							<a href="technology/thermalwave/flash.html">台式</a>
-				</li>
-				<li>
-
-							<a href="technology/thermalwave/infrared.html">分立</a>
-
-				</li>
-				<li>
-
-							<a href="technology/thermalwave/hotair.html">定制</a>
-
-				</li>
-
-		</ul>
-		<li><a href="technology/camera/camera.html" style="color:#91bad4">热激励技术</a></li>
-		<ul style="margin-left:14px">
-			<li>
-				<a href="technology/camera/cooled.html">短脉冲</a>
-			</li>
-			<li>
-				<a href="technology/camera/uncooled.html">长脉冲</a>
-			</li>
-			<li>
-				<a href="technology/camera/uncooled.html">锁相</a>
-			</li>
-		</ul>
-		<li><a href="technology/camera/camera.html" style="color:#91bad4">软件</a></li>
-		<li><a href="technology/camera/camera.html" style="color:#91bad4">附件</a></li>
-		</ul>
-	</strong>
-		</div><!-- end-listbox1 -->
 	</section>
-
 <section id="main-content">
 <div class="eleven columns">
 	<h2>LaScan-C200 </h2>
@@ -180,7 +115,6 @@
 	</div>
 </div>
 </div>
-</section>
   </section><!-- container -->
 
 

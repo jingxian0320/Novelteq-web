@@ -2,7 +2,7 @@
 <section id="full-width">
 <img src="../images/hero-pages2.jpg" class="full-width" />
 <div class="page-subtitle">
-<h3>About Us</h3>
+<h3>关于我们</h3>
 <p>Here's what we're working on and
 thinking about at Vincie.web</p>
 </div>
@@ -11,77 +11,72 @@ thinking about at Vincie.web</p>
 
 
 <section class="container page-content">
-<h2>Forget about your problems! Give us a chance and we will
-prove our efficiency! We will show you the way to Success! </h2>
-<br />
-<hr />
 
 				<div class="one-third column">
-						<h4>History</h4>
+						<h4>公司历史</h4>
 						<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer commodo tristique odio, quis fringilla ligula aliquet ut. Maecenas sed justo varius velit imperdiet bibendum. Vivamus nec sapien massa, a imperdiet diam. Aliquam erat volutpat. Sed consectetur suscipit nunc et rutrum. Integer commodo tristique odio, quis fringilla ligula aliquet ut. Maecenas sed justo varius velit imperdiet bibendum. Vivamus nec sapien massa, a imperdiet diam. Aliquam erat volutpat. Sed tetur suscipit nunc et rutrum. <a href="http://www.yoursite.com">www.yoursite.com.</a></p>
+南京诺威尔光电系统有限公司成立于2012年4月，位于国家级南京经济技术开发区的紫金科创基地，是响应国家“深化改革、坚持创新”的政策号召，由引进的海外专家和归国留学人员创办的民营科技企业。</p><p>公司立足自主创新，以光机电一体化仪器设备开发和技术服务为导向，集研发、生产和销售于一体，重点致力于开发应用于新能源、新材料、交通运输及航空航天等领域的激光精密检测仪器及相关设备。</p>
 		</div>
 
 				<div class="one-third column">
-				<h4>Methodology</h4>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer commodo ut labore et dolore magna aliqua. Ut enim ad minim veniam tristique odio, quis fringilla ligula aliquet ut. Maecenas sed justo varius velit imperdiet bibendum. Vivamus nec sapien massa, a imperdiet diam. Aliquam erat volutpat. </p>
-				<p>
- Integer commodo tristique odio, quis fringilla ligula aliquet ut. Maecenas sed justo varius velit imperdiet ut labore et dolore magna aliqua. Ut enim ad minim veniam bibendum. </p>
+				<h4>团队</h4>
+				<p>公司拥有在光电领域里具世界一流水平的核心团队，多位成员曾长期在美国硅谷从事精密光电仪器设备的研发及管理工作，为该领域的优秀人才，具有丰富的产品研发经验和成功的创业经历。</p><p>部分成员先后入选了国家“千人计划”、江苏省“创新创业人才”、南京市“321人才计划”，及南京市“科技创业家培养计划”。团队成员具有很强的创新能力，拥有数十项国内外专利发明，并曾多次获得国家级与省部级科技进步奖。</p>
 		</div>
 						<div class="one-third column with-bg">
 				<h4>Technology</h4>
 						<p><img src="../images/leaf_icon.png" />
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor<a href="#"> exercitation</a> ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud incididunt <span class="highlight3"> If you have any questions, thoughts, concerns or feedback, </span>please don't hesitate to email us at <a href="#">hi@yoursite.com</a></p>
+公司还与国内知名高校联合建立合作平台，促进产、学、研的紧密结合，借助高校丰富的人才和科研资源，努力为我国光电设备行业的发展作出贡献。 <span class="highlight3"> 立足自主创新，促进光电设备行业发展。</span></p>
+		</div>
+		<div class="white-space"></div>
+		<div class="eight columns">
+		<h2>Send us a message about whatever you like, ask a question or tell us about your next job.</h2>
+		<br />
+		<p>Use the contact form to get in touch, and if you’re looking to hire us for a project, fill in as much detail about the project as you can.</p>
+		<hr />
+		<h4>Contact Information:</h4>
+		<br />
+		<p><img src="../images/social_address.png" align="left" />&nbsp;<strong>Address:</strong></p>
+		<p>
+		No.28 - 63739 street lorem ipsum City, Country</p>
+		<br />
+		<p><img src="../images/social_phone.png" align="left" />&nbsp;&nbsp;<strong>Phone:</strong></p>
+		<p>
+		+ 1 (234) 567 8901<br />
+		</p>
+		<br />
+		<p><img src="../images/social_mail.png" align="left" />&nbsp;<strong>Email:</strong></p>
+		<p>
+		support@yoursite.com<br />
+		</p>
+
 		</div>
 
-	<h4 class="subtitle">Our Team:</h4>
-	<div class="one-third column our-team">
-	  <img src="../images/team/team-member1.jpg" class="team-member" />
-	  <h3>Jane Smith</h3>
-	  <p align="center">Developer (Rails)</p>
-	  <div class="social-icons members">
-<a href="#"><img src="../images/social_twitter2.png" /></a>
-<a href="#"><img src="../images/social_facebook2.png" /></a>
-<a href="#"><img src="../images/social_dribble.png" /></a>
-</div><!-- end-social-icons-members -->
-<h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</h5>
-<br />
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
-	  </div>
-	<div class="one-third column our-team">
-	 <img src="../images/team/team-member2.jpg" class="team-member" />
-	 <h3>Mark Davis</h3>
-	   <p align="center">Developer (iOS)</p>
-	  <div class="social-icons members">
-<a href="#"><img src="../images/social_twitter2.png" /></a>
-<a href="#"><img src="../images/social_facebook2.png" /></a>
-<a href="#"><img src="../images/social_dribble.png" /></a>
-</div><!-- end-social-icons-members -->
-<h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</h5>
-<br />
+		<div class="eight columns">
+		<div class="contact-form" align="left">
+		<div class="clr"></div><br />
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
-	</div>
-	<div class="one-third column our-team" align="center">
-	 <img src="../images/team/team-member3.jpg" class="team-member" />
-	 <h3>Lara Simpson</h3>
-	   <p align="center">Designer</p>
-	  <div class="social-icons members" align="center">
-<a href="#"><img src="../images/social_twitter2.png" /></a>
-<a href="#"><img src="../images/social_facebook2.png" /></a>
-<a href="#"><img src="../images/social_dribble.png" /></a>
-</div><!-- end-social-icons-members -->
-<h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</h5>
-<br />
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
-	</div>
-</section>
+		<form action="" method="post" id="frmContact" />
+		<input name="txtName" type="text" class="txbx" value="Name" /><br />
+		<input name="txtEmail" type="text" class="txbx" value="Email" /><br />
+		<input name="txtSubject" type="text" class="txbx" value="Subject" /><br />
+		<textarea name="txtText" cols="" rows="" class="txbx era" value="Message"></textarea><br />
+		<span id="spanMessage"></span>
+		<input name="" type="button" class="sendbtn" value="Send Message" align="left" id="btnSend" />
+		</form>
+		</div><!-- end-contact-form  -->
+
+		</div>
+
+
+		  </section><!-- container -->
+
+
 <?php include('footer.html'); ?>
 </div><!-- end-wrap -->
 <!-- End Document
 ================================================== -->
-	<script type="text/javascript" src="../js/latest-twitt.js"></script>
-	<script type="text/javascript" src="../js/vincie-send.js"></script>
-<div style="display:none"><script src='http://v7.cnzz.com/stat.php?id=155540&web_id=155540' language='JavaScript' charset='gb2312'></script></div>
+
+	<script type="text/javascript" src="js/vincie-send.js"></script>
+
 </body>
 </html>

@@ -64,7 +64,7 @@ support@yoursite.com<br />
 <!-- End Document
 ================================================== -->
 	<script type="text/javascript" src="../js/latest-twitt.js"></script>
-	<script type="text/javascript" src="../js/vincie-send.js"></script>
-<div style="display:none"><script src='http://v7.cnzz.com/stat.php?id=155540&web_id=155540' language='JavaScript' charset='gb2312'></script></div>
+
+
 </body>
 </html>
