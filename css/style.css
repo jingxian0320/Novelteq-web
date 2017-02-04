@@ -111,7 +111,7 @@ h4.subtitle.r1dd { margin-top:20px;}
 .our-clients { display:block; margin-bottom:20px; clear:both}
 .our-clients img { float:left; margin:1px; }
 .white-space { background-color: white; clear:both; width:100%; height:40px;}
-
+.small-white-space { background-color: white; clear:both; width:100%; height:20px;}
 /* BLOCKQUOTES */
 
 .block-q1, .block-q2 { padding:20px 30px 70px 28px; background:#f4f6da url(../images/q-bot-pic1.png) no-repeat bottom right; width:162px; float:left; margin-right:20px; border-top-left-radius:19px;}
@@ -456,6 +456,7 @@ nav.primary ul li a:active, nav.primary ul li a.selected {	background:#ff9900;	c
 	 .take-tour { margin-bottom:30px;}
 	 .take-tour a { bottom: 228px; left:130px; }
 	 .white-space { height:110px;}
+   .small-white-space { height:55px;}
 	  h4.subtitle { margin:39px 0 21px 0; }
 	 .home-content .two-thirds h1, .home-content .two-thirds h4, .home-content .two-thirds p { padding-left:0;}
      .page-subtitle {  left:90px; }

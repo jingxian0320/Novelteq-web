@@ -23,17 +23,19 @@ thinking about at Vincie.web</p>
 				<p>公司拥有在光电领域里具世界一流水平的核心团队，多位成员曾长期在美国硅谷从事精密光电仪器设备的研发及管理工作，为该领域的优秀人才，具有丰富的产品研发经验和成功的创业经历。</p><p>部分成员先后入选了国家“千人计划”、江苏省“创新创业人才”、南京市“321人才计划”，及南京市“科技创业家培养计划”。团队成员具有很强的创新能力，拥有数十项国内外专利发明，并曾多次获得国家级与省部级科技进步奖。</p>
 		</div>
 						<div class="one-third column with-bg">
-				<h4>Technology</h4>
+				<h4>技术</h4>
 						<p><img src="../images/leaf_icon.png" />
 公司还与国内知名高校联合建立合作平台，促进产、学、研的紧密结合，借助高校丰富的人才和科研资源，努力为我国光电设备行业的发展作出贡献。 <span class="highlight3"> 立足自主创新，促进光电设备行业发展。</span></p>
 		</div>
 		<div class="white-space"></div>
 		<div class="eight columns">
-		<h2>Send us a message about whatever you like, ask a question or tell us about your next job.</h2>
+		<h2>如果您有任何疑问，请联系我们为您解答。</h2>
 		<br />
-		<p>Use the contact form to get in touch, and if you’re looking to hire us for a project, fill in as much detail about the project as you can.</p>
+		<p>您也可以通过留言方式与诺威尔取得联系。请填写您的信息和联系方式并提交申请，之后诺威尔的工作人员会与您取得联系。
+
+</p>
 		<hr />
-		<h4>Contact Information:</h4>
+		<h4>联系方式:</h4>
 		<br />
 		<p><img src="../images/social_address.png" align="left" />&nbsp;<strong>Address:</strong></p>
 		<p>

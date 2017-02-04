@@ -5,6 +5,7 @@
 <h3>公司产品</h3>
 <p>热波无损检测</p>
 </div>
+<!-- <div class="white-space"></div> -->
 
 </section><!-- end-full-width -->
 
@@ -26,78 +27,79 @@
 	<br />
 	<hr />
 	<div class="portfolio">
-	<div class="portfolio-item one-third column entry short long -item">
+	<div class="portfolio-item one-third column entry short -item">
 	<a id="Single-Item" href="product-lascan.php">
-	<img src="../images/products/lascan1.png" border="0" /><span class="prt-img-hov-bg"></span></a>
-	<a href="portfolio-item.html">
-	<h5> 激光扫描激励 </h5>
+	<img src="../images/products/lascan.png" border="0" /><span class="prt-img-hov-bg"></span></a>
+	<a href="product-lascan.php">
+	<h5> 激光扫描激励 </h5><em><br/></em>
+	<!-- <em>xxx</em> -->
 	</a></div>
 	<!-- end-portfolio-item-->
 
 	<div class="portfolio-item one-third column entry short -item">
 	<a id="Single-Item" href="../images/portfolio-img/portfoliopic02-big.jpg">
-	<img src="../images/products/lascan1.png" border="0" /><span class="prt-img-hov-bg"></span></a>
-	<a href="portfolio-item.html">
-	<h5> 闪光灯激励 </h5>
+	<img src="../images/products/thermpulse.png" border="0" /><span class="prt-img-hov-bg"></span></a>
+	<a href="product-thermpulse.php">
+	<h5> 闪光灯激励 </h5><em><br/></em>
 
 	</a></div>
 	<!-- end-portfolio-item-->
 
-	<div class="portfolio-item one-third column entry short long -item">
-	<a id="Single-Item" href="../images/portfolio-img/portfoliopic02-big.jpg">
-	<img src="../images/products/lascan1.png" border="0" /><span class="prt-img-hov-bg"></span></a>
-	<a href="portfolio-item.html">
-	<h5> 红外灯激励 </h5>
+	<div class="portfolio-item one-third column entry long -item">
+	<a id="Single-Item" href="product-irscan.php">
+	<img src="../images/products/irscan.png" border="0" /><span class="prt-img-hov-bg"></span></a>
+	<a href="product-irscan.php">
+	<h5> 红外灯激励 </h5><em><br/></em>
 
 	</a></div>
 	<!-- end-portfolio-item-->
 
-	<div class="portfolio-item one-third column entry short long -item">
+	<div class="portfolio-item one-third column entry long -item">
 	<a id="Single-Item" href="../images/portfolio-img/portfoliopic02-big.jpg">
-	<img src="../images/products/lascan1.png" border="0" /><span class="prt-img-hov-bg"></span></a>
-	<a href="portfolio-item.html">
-	<h5> 热风扫描激励 </h5>
+	<img src="../images/products/airscan.png" border="0" /><span class="prt-img-hov-bg"></span></a>
+	<a href="product-airscan.php">
+	<h5> 热风扫描激励 </h5><em><br/></em>
 
 	</a></div>
 	<!-- end-portfolio-item-->
 
 	<div class="portfolio-item one-third column entry ultrasound -item">
 	<a id="Single-Item" href="product-single.php">
-	<img src="../images/products/lascan1.png" border="0" /><span class="prt-img-hov-bg"></span></a>
-	<a href="product-single.php">
-	<h5> 超声激励 </h5>
+	<img src="../images/products/thermsonic.png" border="0" /><span class="prt-img-hov-bg"></span></a>
+	<a href="product-thermsonic.php">
+	<h5> 超声激励 </h5><em><br/></em>
 	</a></div>
 	<!-- end-portfolio-item-->
 
 	<div class="portfolio-item one-third column entry vortex -item">
 	<a id="Single-Item" href="product-single.php">
-	<img src="../images/products/lascan1.png" border="0" /><span class="prt-img-hov-bg"></span></a>
-	<a href="product-single.php">
-	<h5> 电磁涡流激励 </h5>
+	<img src="../images/products/vortex.png" border="0" /><span class="prt-img-hov-bg"></span></a>
+	<a href="product-vortex.php">
+	<h5> 电磁涡流激励 </h5><em><br/></em>
 	</a></div>
 	<!-- end-portfolio-item-->
 	<div class="portfolio-item one-third column entry fixed -item">
 	<a id="Single-Item" href="../images/portfolio-img/portfoliopic02-big.jpg">
-	<img src="../images/products/lascan1.png" border="0" /><span class="prt-img-hov-bg"></span></a>
-	<a href="portfolio-item.html">
-	<h5> 锁相检测设备 </h5>
+	<img src="../images/products/locked.png" border="0" /><span class="prt-img-hov-bg"></span></a>
+	<a href="portfolio-locked.html">
+	<h5> 锁相检测设备 </h5><em><br/></em>
 
 	</a></div>
 	<!-- end-portfolio-item-->
 
 	<div class="portfolio-item one-third column entry long short fixed -item">
 	<a id="Single-Item" href="product-single.php">
-	<img src="../images/products/lascan1.png" border="0" /><span class="prt-img-hov-bg"></span></a>
-	<a href="product-single.php">
-	<h5> 定制化系统 </h5>
+	<img src="../images/products/customized.png" border="0" /><span class="prt-img-hov-bg"></span></a>
+	<a href="product-customized.php">
+	<h5> 定制化系统 </h5><em><br/></em>
 	</a></div>
 	<!-- end-portfolio-item-->
 
 	<div class="portfolio-item one-third column entry -item">
 	<a id="Single-Item" href="product-single.php">
-	<img src="../images/products/lascan1.png" border="0" /><span class="prt-img-hov-bg"></span></a>
-	<a href="product-single.php">
-	<h5> 专用检测设备 </h5>
+	<img src="../images/products/special.png" border="0" /><span class="prt-img-hov-bg"></span></a>
+	<a href="product-special.php">
+	<h5> 专用检测设备 </h5><em><br/></em>
 	</a></div>
 	<!-- end-portfolio-item-->
 </div><!-- end-portfolio -->

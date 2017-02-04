@@ -3,7 +3,7 @@
 <img src="../images/hero-pages2.jpg" class="full-width" />
 <div class="page-subtitle">
 <h3>产品应用</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+<p>产品应用subtitle blablabla</p>
 </div>
 
 </section><!-- end-full-width -->

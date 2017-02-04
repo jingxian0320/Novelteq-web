@@ -3,7 +3,7 @@
 <img src="../images/hero-pages2.jpg" class="full-width" />
 <div class="page-subtitle">
 <h3>公司技术</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+<p>专注前沿科技发展，立足创新</p>
 </div>
 
 </section><!-- end-full-width -->
@@ -121,7 +121,7 @@
 }
 </script>
 		<script type="text/javascript" src="../js/latest-twitt.js"></script>
-	
+
 
 </body>
 </html>
