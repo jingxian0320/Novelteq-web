@@ -1,11 +1,11 @@
 <?php include('header.html'); ?>
 <section id="full-width">
 <img src="../images/hero-pages2.jpg" class="full-width" />
-<div class="page-subtitle">
+<!-- <div class="page-subtitle">
 <h3>产品应用</h3>
 <p>产品应用subtitle blablabla</p>
-</div>
-
+</div> -->
+<div class='white-space'></div>
 </section><!-- end-full-width -->
 
 <section class="container page-content">

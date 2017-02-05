@@ -38,13 +38,13 @@
     </li>
     <ul id = "irscan" style="margin-left:28px">
         <li>
-            <a href="product-lascan-s200.php">LaScan S200</a>
+            <a href="product-irscan-s200.php">IrScan S200</a>
         </li>
         <li>
-            <a href="product-lascan-t120.php">LaScan T120</a>
+            <a href="product-irscan-t120.php">IrScan T120</a>
         </li>
         <li>
-            <a href="product-lascan-c120.php">LaScan C120</a>
+            <a href="product-irscan-c120.php">IrScan C120</a>
         </li>
     </ul>
     <li>
@@ -52,42 +52,24 @@
     </li>
     <ul id = "airscan" style="margin-left:28px">
         <li>
-            <a href="product-lascan-s240.php">LaScan S300</a>
+            <a href="product-airscan-s240.php">AirScan S210</a>
         </li>
         <li>
-            <a href="product-lascan-t200.php">LaScan T200</a>
+            <a href="product-airscan-t150.php">AirScan T150</a>
         </li>
         <li>
-            <a href="product-lascan-c200.php">LaScan C200</a>
+            <a href="product-airscan-c150.php">AirScan C150</a>
         </li>
     </ul>
     <li>
-        <a href="product-XXX.php">涡流热激励</a>
+        <a href="product-magnetherm.php">涡流热激励</a>
     </li>
-    <ul id = "XXXscan" style="margin-left:28px">
-        <li>
-            <a href="product-lascan-s240.php">LaScan S300</a>
-        </li>
-        <li>
-            <a href="product-lascan-t200.php">LaScan T200</a>
-        </li>
-        <li>
-            <a href="product-lascan-c200.php">LaScan C200</a>
-        </li>
+    <ul id = "magnetherm" style="margin-left:28px">
     </ul>
     <li>
         <a href="product-thermsonic.php">超声激励</a>
     </li>
     <ul id = "thermsonic" style="margin-left:28px">
-        <li>
-            <a href="product-lascan-s240.php">LaScan S300</a>
-        </li>
-        <li>
-            <a href="product-lascan-t200.php">LaScan T200</a>
-        </li>
-        <li>
-            <a href="product-lascan-c200.php">LaScan C200</a>
-        </li>
     </ul>
   </ul>
   <li><a href="product-structure.php" style="color:#91bad4">系统结构形式</a></li>

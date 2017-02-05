@@ -180,7 +180,7 @@
 document.getElementById("lascan").style.display = "none";
 document.getElementById("irscan").style.display = "none";
 document.getElementById("airscan").style.display = "none";
-document.getElementById("XXXscan").style.display = "none";
+document.getElementById("magnetherm").style.display = "none";
 document.getElementById("thermsonic").style.display = "none";
 }
 </script>

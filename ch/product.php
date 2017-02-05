@@ -1,11 +1,11 @@
 <?php include('header.html'); ?>
 <section id="full-width">
 <img src="../images/hero-pages2.jpg" class="full-width" />
-<div class="page-subtitle">
+<!-- <div class="page-subtitle">
 <h3>公司产品</h3>
 <p>热波无损检测</p>
-</div>
-<!-- <div class="white-space"></div> -->
+</div> -->
+<div class="white-space"></div>
 
 </section><!-- end-full-width -->
 
@@ -20,7 +20,7 @@
 				<li><a class="" href="#" data-filter=".long">长脉冲</a></li>
 				<li><a class="" href="#" data-filter=".fixed">锁相</a></li>
 				<li><a class="" href="#" data-filter=".ultrasound">超声 </a></li>
-				<li><a class="" href="#" data-filter=".vortex">涡流 </a></li>
+				<li><a class="" href="#" data-filter=".magnetherm">涡流 </a></li>
 			</ul>
 		</nav>
 
@@ -37,7 +37,7 @@
 	<!-- end-portfolio-item-->
 
 	<div class="portfolio-item one-third column entry short -item">
-	<a id="Single-Item" href="../images/portfolio-img/portfoliopic02-big.jpg">
+	<a id="Single-Item" href="product-thermpulse.php">
 	<img src="../images/products/thermpulse.png" border="0" /><span class="prt-img-hov-bg"></span></a>
 	<a href="product-thermpulse.php">
 	<h5> 闪光灯激励 </h5><em><br/></em>
@@ -55,7 +55,7 @@
 	<!-- end-portfolio-item-->
 
 	<div class="portfolio-item one-third column entry long -item">
-	<a id="Single-Item" href="../images/portfolio-img/portfoliopic02-big.jpg">
+	<a id="Single-Item" href="product-airscan.php">
 	<img src="../images/products/airscan.png" border="0" /><span class="prt-img-hov-bg"></span></a>
 	<a href="product-airscan.php">
 	<h5> 热风扫描激励 </h5><em><br/></em>
@@ -64,22 +64,22 @@
 	<!-- end-portfolio-item-->
 
 	<div class="portfolio-item one-third column entry ultrasound -item">
-	<a id="Single-Item" href="product-single.php">
+	<a id="Single-Item" href="product-thermsonic.php">
 	<img src="../images/products/thermsonic.png" border="0" /><span class="prt-img-hov-bg"></span></a>
 	<a href="product-thermsonic.php">
 	<h5> 超声激励 </h5><em><br/></em>
 	</a></div>
 	<!-- end-portfolio-item-->
 
-	<div class="portfolio-item one-third column entry vortex -item">
-	<a id="Single-Item" href="product-single.php">
-	<img src="../images/products/vortex.png" border="0" /><span class="prt-img-hov-bg"></span></a>
-	<a href="product-vortex.php">
+	<div class="portfolio-item one-third column entry magnetherm -item">
+	<a id="Single-Item" href="product-magnetherm.php">
+	<img src="../images/products/magnetherm.png" border="0" /><span class="prt-img-hov-bg"></span></a>
+	<a href="product-magnetherm.php">
 	<h5> 电磁涡流激励 </h5><em><br/></em>
 	</a></div>
 	<!-- end-portfolio-item-->
 	<div class="portfolio-item one-third column entry fixed -item">
-	<a id="Single-Item" href="../images/portfolio-img/portfoliopic02-big.jpg">
+	<a id="Single-Item" href="portfolio-locked.html">
 	<img src="../images/products/locked.png" border="0" /><span class="prt-img-hov-bg"></span></a>
 	<a href="portfolio-locked.html">
 	<h5> 锁相检测设备 </h5><em><br/></em>
@@ -88,7 +88,7 @@
 	<!-- end-portfolio-item-->
 
 	<div class="portfolio-item one-third column entry long short fixed -item">
-	<a id="Single-Item" href="product-single.php">
+	<a id="Single-Item" href="product-customized.php">
 	<img src="../images/products/customized.png" border="0" /><span class="prt-img-hov-bg"></span></a>
 	<a href="product-customized.php">
 	<h5> 定制化系统 </h5><em><br/></em>
@@ -96,7 +96,7 @@
 	<!-- end-portfolio-item-->
 
 	<div class="portfolio-item one-third column entry -item">
-	<a id="Single-Item" href="product-single.php">
+	<a id="Single-Item" href="product-special.php">
 	<img src="../images/products/special.png" border="0" /><span class="prt-img-hov-bg"></span></a>
 	<a href="product-special.php">
 	<h5> 专用检测设备 </h5><em><br/></em>

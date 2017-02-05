@@ -19,7 +19,7 @@
 
 	<div class="three columns">
 	<br />
-	<img src="../images/products/thermpulse-c600.png" class="full-width" />
+	<img src="../images/products/irscan-t120.png" class="full-width" />
 
 	</div>
 	<div class="seven columns column">
@@ -218,7 +218,7 @@
 document.getElementById("lascan").style.display = "none";
 document.getElementById("thermpulse").style.display = "none";
 document.getElementById("airscan").style.display = "none";
-document.getElementById("XXXscan").style.display = "none";
+document.getElementById("magnetherm").style.display = "none";
 document.getElementById("thermsonic").style.display = "none";
 }
 </script>

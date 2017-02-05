@@ -2,8 +2,8 @@
 <section id="full-width">
 <img src="../images/hero-pages2.jpg" class="full-width" />
 <div class="page-subtitle">
-<h3>产品应用</h3>
-<p>产品应用subtitle blablabla</p>
+<!-- <h3>产品应用</h3> -->
+<!-- <p>产品应用subtitle blablabla</p> -->
 </div>
 
 </section><!-- end-full-width -->

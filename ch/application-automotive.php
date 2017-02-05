@@ -1,10 +1,10 @@
 <?php include('header.html'); ?>
 <section id="full-width">
 <img src="../images/hero-pages2.jpg" class="full-width" />
-<div class="page-subtitle">
+<!-- <div class="page-subtitle">
 <h3>产品应用</h3>
 <p>产品应用subtitle blablabla</p>
-</div>
+</div> -->
 
 </section><!-- end-full-width -->
 
