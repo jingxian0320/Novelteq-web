@@ -1,6 +1,6 @@
 <?php include('header.html'); ?>
 <section id="full-width">
-<img src="../images/hero-pages2.jpg" class="full-width" />
+<img src="../images/hero-pages-product.jpg" class="full-width" />
 <!-- <div class="page-subtitle">
 <h3>公司产品</h3>
 <p>采用先进技术，满足您的多元需求</p>

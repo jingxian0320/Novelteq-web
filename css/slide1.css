@@ -197,7 +197,7 @@ blockquote,q { quotes:"" ""; }
 	font-family:tahoma;
 	color:#999;}
 .caption a { color:#555; text-decoration:none;}
-.caption a:hover { color:#ff9900;}
+.caption a:hover { color:#c3495a;}
 
 	@media only screen and (max-width: 767px) { 
 	#slide-container, #example, #frame, #slides, .slide img, .slides_container, .slides_container div.slide {width:400px; height:229px; } 

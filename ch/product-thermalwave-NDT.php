@@ -1,10 +1,7 @@
 <?php include('header.html'); ?>
 <section id="full-width">
-<img src="../images/hero-pages2.jpg" class="full-width" />
-<div class="page-subtitle">
-<h3>公司产品</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
-</div>
+<img src="../images/hero-pages-product.jpg" class="full-width" />
+<div class='white-space'></div>
 
 </section><!-- end-full-width -->
 
