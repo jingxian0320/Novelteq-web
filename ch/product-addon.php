@@ -72,7 +72,7 @@
 
 </div>
 <div id="parameters2" class="tabcontent2">
-  <img src="../images/products/table_addon1.png" />
+  <img src="../images/products/table_addon2.png" />
 </div>
 </div>
 

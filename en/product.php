@@ -15,13 +15,13 @@
 
 			<ul>
 					<li>激励方式选择：</li>
-				<li><a href="#" class="selected" data-filter="*">全部</a></li>
+				<li><a href="#" class="selected" data-filter="*">全 部</a></li>
 				<li><a class="" href="#" data-filter=".short">短脉冲</a></li>
 				<li><a class="" href="#" data-filter=".long">长脉冲</a></li>
-				<li><a class="" href="#" data-filter=".fixed">锁相</a></li>
-				<li><a class="" href="#" data-filter=".ultrasound">超声 </a></li>
-				<li><a class="" href="#" data-filter=".special">专用检测设备 </a></li>
+				<li><a class="" href="#" data-filter=".fixed">锁 相</a></li>
+				<li><a class="" href="#" data-filter=".ultrasound">超 声 </a></li>
 				<li><a class="" href="#" data-filter=".workstation">工作站 </a></li>
+				<li><a class="" href="#" data-filter=".special">专用检测设备 </a></li>
 			</ul>
 		</nav>
 

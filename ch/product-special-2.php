@@ -119,7 +119,7 @@
 
 
 	<div id="parameters" class="tabcontent">
-	  <img src="../images/products/table_special1.png" />
+	  <img src="../images/products/table_special2.png" />
 	</div>
 
 	<div id="applications" class="tabcontent">

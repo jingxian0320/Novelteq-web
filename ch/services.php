@@ -20,7 +20,7 @@
 </a></p>
 		</div>
 
-				<div class="one-third column with-bg">
+				<div class="one-third column">
 					<h4>售后服务</h4>
 					<p>
 					<span class="highlight3">
