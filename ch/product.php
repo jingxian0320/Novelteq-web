@@ -74,9 +74,9 @@
 
 
 	<div class="portfolio-item one-third column entry fixed -item">
-	<a id="Single-Item" href="portfolio-locked.html">
+	<a id="Single-Item" href="product-thermlockin.php">
 	<img src="../images/products/locked.png" border="0" /><span class="prt-img-hov-bg"></span></a>
-	<a href="portfolio-locked.html">
+	<a href="product-thermlockin.php">
 	<h5> 锁相检测设备 </h5><em><br/></em>
 
 	</a></div>
